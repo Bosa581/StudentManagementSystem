@@ -1,5 +1,7 @@
 # StudentManagementSystem
 This project is simple mangerial system for students account. It allows you to enter a new student, delete a student or update their information.
+Student information include student, first and lastname, and email.
+All these information are also easily stored if the student logs in using their google email account. Using google's cloud api, after logging in, their information is stored automatically.
 
 Table of Contents
 Installation
@@ -35,6 +37,7 @@ Usage
     
 Features
 Student Mangement: Add, update, and delete student records
+Google cloud api for easy login and storage of user information
 
 Contributing
   Fork the repository
